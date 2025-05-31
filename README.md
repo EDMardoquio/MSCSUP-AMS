@@ -55,7 +55,7 @@ To set up and run the Municipal of Sta. Cruz Sports Committee Program and Activi
 Open your terminal or Git Bash.
 
 Run:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/EDMardoquio/MSCSUP-AMS
 Or download the ZIP file and extract it.
 
 🧱 2. Set Up Your Environment
